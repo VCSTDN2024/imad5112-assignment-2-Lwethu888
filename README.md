@@ -24,9 +24,9 @@ The main goal of this app helps evaluate mathematical abilities, strengthen prob
 -  Allows users to answer whether the statement is correct or incorrect.
 -  Provides space for users to select their answer. 
 - Displays maths problem in a true or false.
-- 
-  
-The aim 
+- Review page where the user gets to see the questions they got wrong 
+ 
+The aim is to improve comprehension, involvement, and knowledge retention in math quizzes.
 
 ## Design Consideration
 The design of the **Math Quiz** was based on the following key considerations:
@@ -65,11 +65,11 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ![image](https://github.com/user-attachments/assets/a90104aa-77ee-4017-8086-502fe79f572e)
 
-*Caption for screenshot 3:Score page *
+*Caption for screenshot 3:  *
 
 ![image](https://github.com/user-attachments/assets/1af6721a-82a2-4633-a327-41ac9b6fd0fb)
 
-*Caption for screenshot 4: Review page wher euser gets to see the questions they got wrong *
+*Caption for screenshot 4: Review page where a user gets to see the questions they got wrong *
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
