@@ -72,7 +72,7 @@ The workflow ensures that my project is automatically built and tested every tim
 *Caption for screenshot 4: Review page where a user gets to see the questions they got wrong *
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+A video showcasing the app's functionality can be viewed here: https://www.youtube.com/watch?v=VN0jcimOTq4.
 
 ## Challenges and Learnings
 During the development of this project, I encountered a few challenges, including:
