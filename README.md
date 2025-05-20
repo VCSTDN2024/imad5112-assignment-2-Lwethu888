@@ -61,11 +61,11 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ![image](https://github.com/user-attachments/assets/d5f9822b-3ee6-48a1-b878-e887ff38c15d)
 
-*Caption for screenshot 2: Screen showing a score 0/6  *
+*Caption for screenshot 2: Quiz app *
 
 ![image](https://github.com/user-attachments/assets/a90104aa-77ee-4017-8086-502fe79f572e)
 
-*Caption for screenshot 3:  *
+*Caption for screenshot 3:Screen showing a score 0/6  *
 
 ![image](https://github.com/user-attachments/assets/1af6721a-82a2-4633-a327-41ac9b6fd0fb)
 
