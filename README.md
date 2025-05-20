@@ -25,8 +25,6 @@ The main goal of this app helps evaluate mathematical abilities, strengthen prob
 -  Provides space for users to select their answer. 
 - Displays maths problem in a true or false.
 - 
--
--
   
 The aim 
 
