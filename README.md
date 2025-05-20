@@ -57,7 +57,7 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ![image](https://github.com/user-attachments/assets/9018f727-9351-4d1b-b992-48dc837b4852)
 
-*Caption for screenshot 1: The user will see this   *
+*Caption for screenshot 1: User interface *
 
 ![image](https://github.com/user-attachments/assets/d5f9822b-3ee6-48a1-b878-e887ff38c15d)
 
