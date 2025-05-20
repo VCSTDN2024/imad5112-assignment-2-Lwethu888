@@ -2,11 +2,11 @@
 ### **README for Android App Development Assignment**
 
 # Maths Quiz
-- Lwethu Tola
- -ST1047823
-- Group 1
- -Higher certificate in Mobile Application & Web Development
- -IMAD
+Name: Lwethu Tola
+Student number: ST1047823
+Group: 1
+Course: Higher certificate in Mobile Application & Web Development
+Module code: IMAD
   
 ## Links
 - **GitHub Repository**: https://github.com/VCSTDN2024/imad5112-assignment-2-Lwethu888.git
@@ -57,7 +57,7 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ![image](https://github.com/user-attachments/assets/9018f727-9351-4d1b-b992-48dc837b4852)
 
-*Caption for screenshot 1:open screen *
+*Caption for screenshot 1: The user will see this   *
 
 ![image](https://github.com/user-attachments/assets/d5f9822b-3ee6-48a1-b878-e887ff38c15d)
 
