@@ -18,7 +18,7 @@ class LearnerScore : AppCompatActivity() {
 
         val scoretextView = findViewById<TextView>(R.id.scoretextView)
         val feedbacktextView = findViewById<TextView>(R.id.feedbacktextView)
-        val restartbutton = findViewById<Button>(R.id.restartbutton)
+        val reviewbutton = findViewById<Button>(R.id.reviewbutton)
         val exitbutton = findViewById<Button>(R.id.exitbutton)
 
         val score = intent.getIntExtra("score", 0)
@@ -31,7 +31,7 @@ class LearnerScore : AppCompatActivity() {
         }
         feedbacktextView.text = feedback
 
-        restartbutton.setOnClickListener {
+        reviewbutton.setOnClickListener {
 
             val intent = Intent(this, LearnerReviewScore::class.java)
             intent.putExtra("questions", MathsQuiz.questions)
