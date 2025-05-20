@@ -10,7 +10,7 @@ Module code: IMAD
   
 ## Links
 - **GitHub Repository**: https://github.com/VCSTDN2024/imad5112-assignment-2-Lwethu888.git
-- **YouTube Video**: [YouTube Video Link]
+- **YouTube Video**: https://www.youtube.com/watch?v=VN0jcimOTq4
 
 ## Project Overview
 The **Maths Quiz** is a mobile application developed as part of an assignment in the IMAD module. This application was created using the programming language **Kotlin** and **Android Studio**. The app's primary purpose is to improve problem-solving skills.
